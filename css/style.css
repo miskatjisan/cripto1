@@ -1,0 +1,117 @@
+a{
+    text-decoration: none;
+}
+.navbar{
+    border: 1px solid #777;
+}
+.navbar img{
+  
+}
+.navbar .nav-item .nav-link{
+    color: #fff;
+}
+.navbar .nav-item .nav-link:hover{
+    color: blue;
+}
+.search{
+    width: 124px;
+    height: 27px;
+    background: #333;
+    border-radius: 30px;
+}
+.search input{
+    background: none;
+    border: none;
+    text-align: center;
+    width: 60px;
+}
+.search i{
+   margin-left: 10px;
+   color: #777;
+}
+.icon-group{
+    color: #fff;
+    margin-left: 30px;
+    
+}
+.icon-group i{
+    margin-left: 25px;
+    font-size: 18px;
+}
+.icon-group i:hover{
+    color: blue;
+}
+.icon-group .fa-arrow-down{
+    border-bottom: 1px solid #fff;
+}
+
+.footer{
+    background-color: #20043c;
+    color: #fff;
+    padding: 20px;
+}
+.footer-text{
+    margin-top: 60px;
+    border-top: 1px solid #333;
+    padding: 15px;
+}
+.footer-search input{
+    height: 40px;
+}
+
+.footer-search button{
+    height: 39px;
+    margin-top: -6px;
+}
+.footer-search button img{
+    height: 30px;
+    width: 30px;
+}
+
+.footer-bottom-nav{
+    border: 1px solid #333;
+    padding: 15px;
+    margin-top: 50px;
+}
+.banner-wraper{
+    padding: 100px;
+    margin-top: -20px;
+    position:absolute;
+    top:60px;
+    color: #fff;
+}
+.banner-wraper .title h1{
+    font-size: 55px;
+}
+.banner-wraper .slogan{
+    margin-top: 20px;
+    color: #999;
+    font-size: 24px;
+}
+.banner-wraper .slogan strong{
+    color: #fff;
+}
+.banner-wraper button{
+    margin-top: 30px;
+    margin-left: 10px;
+}
+.popular-cripto-currency {
+    display: block;
+}
+
+.populer-nav .nav-link{
+font-size: 18px;
+color: #999 !important;
+}
+
+.gffex-video-wrap{
+    border: 1px solid #777;
+    text-align: center;
+    border-radius: 20px;
+}
+
+.gffex-video-wrap video{
+    width: 1034px;
+    height: 615px;
+
+}
